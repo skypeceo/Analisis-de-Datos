@@ -18,7 +18,7 @@ Los datos provienen de los **Registros Estadísticos Mensuales (REM-20)** gestio
 
 ## Requisitos y Reproducción del Análisis
 
-### 1. Clonar el repositorio
+### Clonar el repositorio
 ```bash
 git clone (https://github.com/skypeceo/Analisis-de-Datos.git)
 cd Analisis-de-datos
